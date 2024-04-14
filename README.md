@@ -15,3 +15,5 @@ You can even run multiple applications and accounts on your PC thanks to the mul
 Download Juwa and run it on your computer. Enjoy the large screen and high definition quality of the PC version
 
 Download the original file for a simple and secure installation, the program will do everything by itself, you just need to log in to your account and start playing
+
+[<img src="https://github.com/gabriellheaven/juwa/blob/main/juwa.jpg"/>]
